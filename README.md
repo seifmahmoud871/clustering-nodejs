@@ -16,13 +16,19 @@ This repository demonstrates how to implement clustering in Node.js to enhance a
 
 1. Clone this repository:
 
-```git clone https://github.com/seifmahmoud871/clustering-nodejs.git```
+```bash
+git clone https://github.com/seifmahmoud871/clustering-nodejs.git
+```
 
-```cd clustering-nodejs```
+```bash 
+cd clustering-nodejs
+```
 
 2. Install dependencies:
 
-```npm install```
+```bash 
+npm install
+```
 
 
 
